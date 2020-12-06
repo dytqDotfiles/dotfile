@@ -1,18 +1,26 @@
 # dotfile
-organisation
+ALL REPOSITORIES ARE A FILE CONFIG OR FORKED PROJECT. Forked projected can be outdated with the origin repositories.
 
 # File location
 
-- script -> .scripts
+## "."
+
+- scripts -> .scripts
+
+- dotfile -> .dotfile
+
+## ".config"
 
 - dwm -> .config/dwm
 
-- dwmstatus -> .config/dwmstatus
-
-- st -> .config/st
+- xterm -> .config/Xterm
 
 - dmenu -> .config/dmenu
 
-- ziq-manager -> ?
+- ranger -> .config/ranger
 
-- dotfile -> .dotfile 
+- slock -> .config/slock
+
+- mpd -> .config/mpd
+
+- ncmpcpp -> .config/ncmpcpp
