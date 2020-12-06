@@ -1,5 +1,5 @@
 # dotfile
-ALL REPOSITORIES ARE A FILE CONFIG OR FORKED PROJECT. Forked projected can be outdated with the origin repositories.
+ALL REPOSITORIES ARE A CONFIG FILE OR FORKED PROJECT. Forked project can be outdated with the origin repositories.
 
 # File location
 
