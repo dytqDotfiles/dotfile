@@ -24,3 +24,5 @@ ALL REPOSITORIES ARE A CONFIG FILE OR FORKED PROJECT. Forked project can be outd
 - mpd -> .config/mpd
 
 - ncmpcpp -> .config/ncmpcpp
+
+- radio -> .config/radio
