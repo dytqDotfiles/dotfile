@@ -17,8 +17,6 @@ ALL REPOSITORIES ARE A CONFIG FILE OR FORKED PROJECT. Forked project can be outd
 
 - dmenu -> .config/dmenu
 
-- ranger -> .config/ranger
-
 - slock -> .config/slock
 
 - mpd -> .config/mpd
