@@ -1,9 +1,11 @@
 # dotfile
-ALL REPOSITORIES ARE A CONFIG FILE OR FORKED PROJECT. Forked project can be outdated with the origin repositories.
+ALL REPOSITORIES ARE CONFIG FILE OR FORKED FROM PROJECT. Forked project can be outdated with the origin repositories.
 
 # File location
 
 ## "."
+
+- doom.d -> .dooom.d
 
 - scripts -> .scripts
 
@@ -13,7 +15,7 @@ ALL REPOSITORIES ARE A CONFIG FILE OR FORKED PROJECT. Forked project can be outd
 
 - dwm -> .config/dwm
 
-- xterm -> .config/Xterm
+- alacrity -> .config/alacritty
 
 - dmenu -> .config/dmenu
 
